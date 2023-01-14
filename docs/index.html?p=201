@@ -335,7 +335,7 @@ body.custom-background { background-color: #f7e9d0; }
 <nav id="top-menu-nav">
 <ul id="top-menu" class="nav"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-93"><a href="./">Inicio</a></li>
 <li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="./quienes-somos/">Quienes somos?</a></li>
-<li id="menu-item-232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-232"><a href="#">Catálago</a>
+<li id="menu-item-232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-232"><a href="#">Catálogo</a>
 <ul class="sub-menu">
 <li id="menu-item-231" class="menu-item menu-item-type-post_type_archive menu-item-object-product menu-item-231"><a href="./catalogo/">Todos los productos</a></li>
 <li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-175"><a href="./catalogo/reproducciones-arqueologicas/">Reproducciones Arqueológicas</a>
