@@ -362,7 +362,7 @@ body.custom-background { background-color: #f7e9d0; }
 </li>
 <li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="./cursos/">Cursos</a></li>
 <li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-562 current_page_item menu-item-741"><a href="./blog/" aria-current="page">Blog</a></li>
-<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="./contacto/">Contacto</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://www.kerarqueo.com/contacto/">Contacto</a></li>
 </ul> </nav>
 <a href="./carrito/" class="et-cart-info">
 <span></span>

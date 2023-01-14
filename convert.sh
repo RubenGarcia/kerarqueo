@@ -10,3 +10,4 @@ sed -i -e 's=span:before{content:"\\e07a";margin-right:10px;position:relative}=s
 sed -i -e 's=Catálago=Catálogo=g' index* */index* */*/index* */*/*/index* */*/*/*/index* */*/*/*/*/index*
 sed -i -e "s=.menu-item-has-children>a:first-child:after{font-family:'ETmodules';content:"'"3"'=".menu-item-has-children>a:first-child:after{font-family:'ETmodules';content:"'"﹀"=g' index* */index* */*/index* */*/*/index* */*/*/*/index* */*/*/*/*/index*
 
+sed -i -e 's!<a href="./contacto/">Contacto</a>!<a href="https://www.kerarqueo.com/contacto/">Contacto</a>!g' index* */index* */*/index* */*/*/index* */*/*/*/index* */*/*/*/*/index*
